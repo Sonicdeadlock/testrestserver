@@ -1,0 +1,22 @@
+{
+  "name": "testrestserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sonicdeadlock/testrestserver.git"
+  },
+  "author": "Alex Thomas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sonicdeadlock/testrestserver/issues"
+  },
+  "homepage": "https://github.com/Sonicdeadlock/testrestserver",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
